@@ -1,6 +1,6 @@
 # The-Spark-Foundation-Task-Data-Science-internship
 # The spark foundation (Data science and Business Analytics)
-Name of the student : **Akshit Parmar**
+Name of the student : **Deepanshu Sharma**
 
 Branch : **Computer science and engineering with spec. in big data**
 
